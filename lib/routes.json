@@ -9133,6 +9133,7 @@
     "getById": {
       "url": "/user/:id",
       "method": "GET",
+      "deprecated": "This method uses an undocumented API that can change at any time. Use users.getForUser() instead",
       "params": {
         "id": {
           "type": "string",
