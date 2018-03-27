@@ -6760,6 +6760,7 @@
       "url": "/repos/:owner/:repo/branches"
     },
     "getById": {
+      "deprecated": "`.repos.getById()` method uses an undocumented API that can change at any time. Use `.repos.get()` instead",
       "method": "GET",
       "params": {
         "id": {
