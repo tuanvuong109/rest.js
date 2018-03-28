@@ -17,12 +17,6 @@
           "required": true,
           "type": "string"
         },
-        "page": {
-          "type": "number"
-        },
-        "per_page": {
-          "type": "number"
-        },
         "repo": {
           "required": true,
           "type": "string"
@@ -277,12 +271,6 @@
         "owner": {
           "required": true,
           "type": "string"
-        },
-        "page": {
-          "type": "number"
-        },
-        "per_page": {
-          "type": "number"
         },
         "repo": {
           "required": true,
@@ -822,12 +810,6 @@
         "id": {
           "required": true,
           "type": "string"
-        },
-        "page": {
-          "type": "number"
-        },
-        "per_page": {
-          "type": "number"
         }
       },
       "url": "/applications/grants/:id"
@@ -1657,12 +1639,6 @@
         "owner": {
           "required": true,
           "type": "string"
-        },
-        "page": {
-          "type": "number"
-        },
-        "per_page": {
-          "type": "number"
         },
         "repo": {
           "required": true,
@@ -4629,12 +4605,6 @@
           "required": true,
           "type": "string"
         },
-        "page": {
-          "type": "number"
-        },
-        "per_page": {
-          "type": "number"
-        },
         "repo": {
           "required": true,
           "type": "string"
@@ -4916,12 +4886,6 @@
         "owner": {
           "required": true,
           "type": "string"
-        },
-        "page": {
-          "type": "number"
-        },
-        "per_page": {
-          "type": "number"
         },
         "repo": {
           "required": true,
@@ -5707,12 +5671,6 @@
         "owner": {
           "required": true,
           "type": "string"
-        },
-        "page": {
-          "type": "number"
-        },
-        "per_page": {
-          "type": "number"
         },
         "repo": {
           "required": true,
@@ -6681,12 +6639,6 @@
           "required": true,
           "type": "string"
         },
-        "page": {
-          "type": "number"
-        },
-        "per_page": {
-          "type": "number"
-        },
         "repo": {
           "required": true,
           "type": "string"
@@ -6704,12 +6656,6 @@
         "owner": {
           "required": true,
           "type": "string"
-        },
-        "page": {
-          "type": "number"
-        },
-        "per_page": {
-          "type": "number"
         },
         "repo": {
           "required": true,
@@ -6806,12 +6752,6 @@
         "owner": {
           "required": true,
           "type": "string"
-        },
-        "page": {
-          "type": "number"
-        },
-        "per_page": {
-          "type": "number"
         },
         "ref": {
           "required": true,
@@ -7314,12 +7254,6 @@
           "required": true,
           "type": "string"
         },
-        "page": {
-          "type": "number"
-        },
-        "per_page": {
-          "type": "number"
-        },
         "repo": {
           "required": true,
           "type": "string"
@@ -7367,12 +7301,6 @@
         "owner": {
           "required": true,
           "type": "string"
-        },
-        "page": {
-          "type": "number"
-        },
-        "per_page": {
-          "type": "number"
         },
         "repo": {
           "required": true,
@@ -7432,12 +7360,6 @@
           "required": true,
           "type": "string"
         },
-        "page": {
-          "type": "number"
-        },
-        "per_page": {
-          "type": "number"
-        },
         "repo": {
           "required": true,
           "type": "string"
@@ -7455,12 +7377,6 @@
         "owner": {
           "required": true,
           "type": "string"
-        },
-        "page": {
-          "type": "number"
-        },
-        "per_page": {
-          "type": "number"
         },
         "repo": {
           "required": true,
@@ -7480,12 +7396,6 @@
           "required": true,
           "type": "string"
         },
-        "page": {
-          "type": "number"
-        },
-        "per_page": {
-          "type": "number"
-        },
         "repo": {
           "required": true,
           "type": "string"
@@ -7503,12 +7413,6 @@
         "owner": {
           "required": true,
           "type": "string"
-        },
-        "page": {
-          "type": "number"
-        },
-        "per_page": {
-          "type": "number"
         },
         "repo": {
           "required": true,
@@ -7528,12 +7432,6 @@
           "required": true,
           "type": "string"
         },
-        "page": {
-          "type": "number"
-        },
-        "per_page": {
-          "type": "number"
-        },
         "repo": {
           "required": true,
           "type": "string"
@@ -7551,12 +7449,6 @@
         "owner": {
           "required": true,
           "type": "string"
-        },
-        "page": {
-          "type": "number"
-        },
-        "per_page": {
-          "type": "number"
         },
         "repo": {
           "required": true,
@@ -7576,12 +7468,6 @@
           "required": true,
           "type": "string"
         },
-        "page": {
-          "type": "number"
-        },
-        "per_page": {
-          "type": "number"
-        },
         "repo": {
           "required": true,
           "type": "string"
@@ -7599,12 +7485,6 @@
         "owner": {
           "required": true,
           "type": "string"
-        },
-        "page": {
-          "type": "number"
-        },
-        "per_page": {
-          "type": "number"
         },
         "repo": {
           "required": true,
@@ -7651,12 +7531,6 @@
         "owner": {
           "required": true,
           "type": "string"
-        },
-        "page": {
-          "type": "number"
-        },
-        "per_page": {
-          "type": "number"
         },
         "repo": {
           "required": true,
@@ -7884,12 +7758,6 @@
           "required": true,
           "type": "string"
         },
-        "page": {
-          "type": "number"
-        },
-        "per_page": {
-          "type": "number"
-        },
         "repo": {
           "required": true,
           "type": "string"
@@ -7903,12 +7771,6 @@
         "owner": {
           "required": true,
           "type": "string"
-        },
-        "page": {
-          "type": "number"
-        },
-        "per_page": {
-          "type": "number"
         },
         "repo": {
           "required": true,
@@ -8299,12 +8161,6 @@
         "owner": {
           "required": true,
           "type": "string"
-        },
-        "page": {
-          "type": "number"
-        },
-        "per_page": {
-          "type": "number"
         },
         "repo": {
           "required": true,
